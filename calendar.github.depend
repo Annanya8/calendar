@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656062449 source:c:\users\ac586\downloads\calendar.github\main.c
+	<stdio.h>
+	<stdlib.h>
+
